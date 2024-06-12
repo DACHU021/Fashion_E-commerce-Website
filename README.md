@@ -10,15 +10,14 @@
 -  **Product Filters**: Quickly narrow down choices by size, color, price, and more with advanced filtering options.
 -  **Customer Reviews**: Read and write reviews to make informed purchasing decisions.
 ## Live Demo
-Check out the live demo # https://dachu021.github.io/Weather-Forecastify/ to see Weather Forecastify in action!
+Check out the live demo # https://fashion-hdm-021.netlify.app to see Weather Forecastify in action!
 
 ## Screenshots
-![Ecommerce1](https://github.com/DACHU021/HDM_Ecommerce/assets/137294508/92c7c655-f66d-45c5-9d2b-03491a47fa43)
-![Ecommerce 2](https://github.com/DACHU021/HDM_Ecommerce/assets/137294508/d247c6bf-64d8-4cd1-a986-ed599ae0fcf9)
-![ecommerce3](https://github.com/DACHU021/HDM_Ecommerce/assets/137294508/849c5ac2-e976-4007-8e70-a51d3d7df5f5)
-![ecommerce 4](https://github.com/DACHU021/HDM_Ecommerce/assets/137294508/6c09d32e-0bd2-43f5-836b-2fcd9c2fc06d)
-![ecommerce 5](https://github.com/DACHU021/HDM_Ecommerce/assets/137294508/4d64fbb8-b3c6-4c19-a4c3-a328c5a7e785)
-
+![Ecommerce1](https://github.com/DACHU021/Fashion_E-commerce-Website/assets/137294508/bddcae96-f54d-4d8b-9bac-efee06a625c5)
+![Ecommerce 2](https://github.com/DACHU021/Fashion_E-commerce-Website/assets/137294508/b8f8ac99-62c4-403e-b6f7-001c3226bf1a)
+![ecommerce3](https://github.com/DACHU021/Fashion_E-commerce-Website/assets/137294508/ee56eee1-fc88-48fa-bd5c-546344f03794)
+![ecommerce 4](https://github.com/DACHU021/Fashion_E-commerce-Website/assets/137294508/51ad8e74-c118-4c7f-abc4-82790a630ec4)
+![ecommerce 5](https://github.com/DACHU021/Fashion_E-commerce-Website/assets/137294508/d6ac5edc-9aeb-4b18-bec1-77a078af2731)
 
 
 ## Technologies Used
